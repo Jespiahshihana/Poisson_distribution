@@ -1,4 +1,6 @@
 # Fitting Poisson  distribution
+## DEVELOPED BY : JESPIAH SHIHANA P S
+## REGISTER NUMBER : 212223040077
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
